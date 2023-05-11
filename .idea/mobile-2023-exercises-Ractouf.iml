@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/ftuto1/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ftuto1/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ftuto1/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ex1/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ex1/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ex1/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ftuto2/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ftuto2/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ftuto2/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ex2/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ex2/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ex2/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ftuto3/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ftuto3/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ftuto3/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ex3/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ex3/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ex3/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ftuto4/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ftuto4/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ftuto4/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ex4/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ex4/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ex4/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ftuto5/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ftuto5/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ftuto5/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ex5/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ex5/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ex5/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ftuto6/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ftuto6/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ftuto6/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ex6/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ex6/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ex6/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ftuto7/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ftuto7/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ftuto7/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ex7/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ex7/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ex7/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ex8/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ex8/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ex8/.dart_tool" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Dart SDK" level="project" />
+    <orderEntry type="library" name="Dart Packages" level="project" />
+  </component>
+</module>
